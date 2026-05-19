@@ -6,7 +6,7 @@ title: Objectifs du projet
 
 # Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.
+ce projet à pour bute de créer un rebobiner / débobineur de bobine de filament
 
 ## Contexte du Projet
 
