@@ -5,9 +5,9 @@ title: Accueil
 permalink: /
 ---
 
-# Bienvenue sur notre documentation
+# Bienvenue sur le site du Debobiner !
 
-Bienvenue dans la documentation du projet XY. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
+Bienvenue dans la documentation du projet Debobiner. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
 
 [Notre projet sur Onshape](https://cad.onshape.com/documents/2860ed3d58f1b518e6857770/w/82b3c0e474623135ccb76fa3/e/0cab16137cd459ee83ebe56e?renderMode=0&uiState=6936dc0e23fecc27d34268b2){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Notre repo GitHub](https://github.com/cguyot2006/projet-bobiner){: .btn .fs-5 .mb-4 .mb-md-0 }
@@ -20,8 +20,18 @@ Bienvenue dans la documentation du projet XY. Ce site a pour but de fournir tout
 
 ## À propos du Projet
 
-Décrivez ici en quelques lignes l'objectif et l'aperçu général de votre projet. Quel est son but ? À qui est-il destiné ? Quels problèmes cherche-t-il à résoudre ?
+L'**Usine École 4.0** d'UniLaSalle Amiens utilise de manière intensive l'impression 3D. Cependant, la diversité des formats de bobines de filament (souvent lourdes et volumineuses) complique la manipulation et ralentit les changements de série.
 
+Notre solution ? Un **enrouleur/dérouleur intelligent** capable de reconditionner le filament depuis n'importe quel format source vers des bobines standardisées de 1kg (notamment les bobines "nid d'abeille"). Ce système permet de gagner en flexibilité, de réduire les pertes de temps et d'optimiser l'espace de stockage.
+
+## Spécifications techniques
+
+Notre machine intègre :
+* **Système Bi-directionnel :** Enroulage et déroulage automatisés.
+* **Contrôle de Tension PID :** Un algorithme assure une tension constante du filament pour éviter les nœuds et les déformations.
+* **Interface Utilisateur :** Monitoring en temps réel (Marche/Arrêt, état de la tension, retour de fonctionnement).
+* **Polyvalence :** Compatible avec les bobines du Makerspace et les formats standard de 1kg.
+* **Design Intégré :** Le système est conçu pour être installé dans une armoire en plexiglass dédiée au sein de l'usine.
 
 ## Poster
 
