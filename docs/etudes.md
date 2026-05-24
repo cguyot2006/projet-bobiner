@@ -11,6 +11,9 @@ Avant de débuter la conception assistée par ordinateur (CAO), notre équipe a 
 
 *(Note : Vous pouvez insérer ici les images ou liens des modèles qui vous ont inspirés)*
 
+![Alt text](url_de_l'image.jpg)
+<img width="741" height="683" alt="winding spool" src="https://github.com/user-attachments/assets/5684eab9-1aa8-4a2b-aa09-c969e991920e" />
+
 ---
 
 ## Retour de l'étude
