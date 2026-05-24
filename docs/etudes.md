@@ -9,10 +9,37 @@ title: Études et choix techniques
 Avant de débuter la conception assistée par ordinateur (CAO), notre équipe a mené une analyse du marché. L'objectif était d'analyser les solutions d'enrouleurs ("rewinder" ou "re-spooling") de filament déjà développées par les communites et dans l'industrie afin d'en extraire les meilleures pratiques.
 
 
-*(Note : Vous pouvez insérer ici les images ou liens des modèles qui vous ont inspirés)*
+## 🔍 Analyse du marché et de l'existant
 
-![Alt text](url_de_l'image.jpg)
-<img width="741" height="683" alt="winding spool" src="https://github.com/user-attachments/assets/5684eab9-1aa8-4a2b-aa09-c969e991920e" />
+L'étude des systèmes existants nous a permis de cartographier les architectures mécaniques récurrentes. Cliquez sur les images pour explorer nos sources d'inspiration :
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 10px;">
+  
+  <div style="flex: 1; text-align: center;">
+    <a href="https://www.firgelli.fr/blogs/mechanisms/spool-winding-machine?srsltid=AfmBOop1c71301663T1KjvMkcobsRYWZ8Ml7dUmaxm11FXUkffIzeaoD">
+      <img src="https://github.com/user-attachments/assets/5684eab9-1aa8-4a2b-aa09-c969e991920e" alt="Firgelli Spool" style="width: 100%; border-radius: 8px; border: 1px solid #ddd;">
+    </a>
+    <p style="font-size: 0.8em; color: #666;">Système Industriel Firgelli</p>
+  </div>
+
+  <div style="flex: 1; text-align: center;">
+    <a href="https://www.fer-plast.com/fr/produits/emballage/imprimantes-et-etiquetage/enrouleurs-et-dérouleurs-pour-bobines-detiquettes/rebobiner-rtr-detail?srsltid=AfmBOorn9pmhIZw2dOTRu1LkA-Q6eBvOfu8mOdHF3Se4XEPGS_fn9L6E&ct=1779642120338">
+      <img src="https://github.com/user-attachments/assets/4274dddf-4036-4c06-b560-b708668bee5e" alt="Ferplast Winding" style="width: 100%; border-radius: 8px; border: 1px solid #ddd;">
+    </a>
+    <p style="font-size: 0.8em; color: #666;">Solution Fer-Plast</p>
+  </div>
+
+  <div style="flex: 1; text-align: center;">
+    <a href="https://www.printables.com/fr/model/515427-filament-spool-winder">
+      <img src="https://github.com/user-attachments/assets/4c473d85-58e7-4d9c-b0c8-ed36f38690bc" alt="Maker Spooler" style="width: 100%; border-radius: 8px; border: 1px solid #ddd;">
+    </a>
+    <p style="font-size: 0.8em; color: #666;">Projet Communautaire Maker</p>
+  </div>
+
+</div>
+
+---
+
 
 ---
 
