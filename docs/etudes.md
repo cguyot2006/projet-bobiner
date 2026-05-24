@@ -9,7 +9,7 @@ title: Études et choix techniques
 Avant de débuter la conception assistée par ordinateur (CAO), notre équipe a mené une analyse du marché. L'objectif était d'analyser les solutions d'enrouleurs ("rewinder" ou "re-spooling") de filament déjà développées par les communites et dans l'industrie afin d'en extraire les meilleures pratiques.
 
 
-## 🔍 Analyse du marché et de l'existant
+## Analyse du marché
 
 L'étude des systèmes existants nous a permis de cartographier les architectures mécaniques récurrentes. Cliquez sur les images pour explorer nos sources d'inspiration :
 
@@ -37,8 +37,6 @@ L'étude des systèmes existants nous a permis de cartographier les architecture
   </div>
 
 </div>
-
----
 
 
 ---
