@@ -32,7 +32,8 @@ Vidéo respectant le temps limité
 
 # Existant
 
-Les bobines vides déja utilisé au Makerspace que nous nous servont comme exemple
+Les bobines vides déja utilisé au Makerspace que nous nous servont comme example
+https://modelembedder.net/embed?did=4a4d58609246d0bd35bbe052&wvm=v&wvmid=454d150f298dcc1c1ec7cf21&eid=1b27453f958be5a9c904a407&elementType=ASSEMBLY
 
 # Cahier des Charges
 
