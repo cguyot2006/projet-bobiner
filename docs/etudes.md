@@ -13,27 +13,31 @@ Avant de débuter la conception assistée par ordinateur (CAO), notre équipe a 
 
 L'étude des systèmes existants nous a permis de cartographier les architectures mécaniques récurrentes. Cliquez sur les images pour explorer nos sources d'inspiration :
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 10px;">
+## 🔍 Analyse du marché et de l'existant
+
+L'étude des systèmes existants nous a permis de cartographier les architectures mécaniques récurrentes. Cliquez sur les images pour explorer nos sources d'inspiration :
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 15px; margin-top: 20px;">
   
   <div style="flex: 1; text-align: center;">
-    <a href="https://www.firgelli.fr/blogs/mechanisms/spool-winding-machine?srsltid=AfmBOop1c71301663T1KjvMkcobsRYWZ8Ml7dUmaxm11FXUkffIzeaoD">
-      <img src="https://github.com/user-attachments/assets/5684eab9-1aa8-4a2b-aa09-c969e991920e" alt="Firgelli Spool" style="width: 100%; border-radius: 8px; border: 1px solid #ddd;">
+    <a href="https://www.firgelli.fr/blogs/mechanisms/spool-winding-machine?srsltid=AfmBOop1c71301663T1KjvMkcobsRYWZ8Ml7dUmaxm11FXUkffIzeaoD" target="_blank">
+      <img src="https://github.com/user-attachments/assets/5684eab9-1aa8-4a2b-aa09-c969e991920e" alt="Firgelli Spool" style="width: 100%; border-radius: 8px; border: 1px solid #ddd; aspect-ratio: 4/3; object-fit: cover;">
     </a>
-    <p style="font-size: 0.8em; color: #666;">Système Industriel Firgelli</p>
+    <p style="font-size: 0.85em; color: #666; margin-top: 10px;"><b>Système Firgelli</b><br>Étude de l'entraînement</p>
   </div>
 
   <div style="flex: 1; text-align: center;">
-    <a href="https://www.fer-plast.com/fr/produits/emballage/imprimantes-et-etiquetage/enrouleurs-et-dérouleurs-pour-bobines-detiquettes/rebobiner-rtr-detail?srsltid=AfmBOorn9pmhIZw2dOTRu1LkA-Q6eBvOfu8mOdHF3Se4XEPGS_fn9L6E&ct=1779642120338">
-      <img src="https://github.com/user-attachments/assets/4274dddf-4036-4c06-b560-b708668bee5e" alt="Ferplast Winding" style="width: 100%; border-radius: 8px; border: 1px solid #ddd;">
+    <a href="https://www.fer-plast.com/fr/produits/emballage/imprimantes-et-etiquetage/enrouleurs-et-dérouleurs-pour-bobines-detiquettes/rebobiner-rtr-detail?srsltid=AfmBOorn9pmhIZw2dOTRu1LkA-Q6eBvOfu8mOdHF3Se4XEPGS_fn9L6E&ct=1779642120338" target="_blank">
+      <img src="https://github.com/user-attachments/assets/4274dddf-4036-4c06-b560-b708668bee5e" alt="Ferplast Winding" style="width: 100%; border-radius: 8px; border: 1px solid #ddd; aspect-ratio: 4/3; object-fit: cover;">
     </a>
-    <p style="font-size: 0.8em; color: #666;">Solution Fer-Plast</p>
+    <p style="font-size: 0.85em; color: #666; margin-top: 10px;"><b>Solution Fer-Plast</b><br>Gestion de la tension</p>
   </div>
 
   <div style="flex: 1; text-align: center;">
-    <a href="https://www.printables.com/fr/model/515427-filament-spool-winder">
-      <img src="https://github.com/user-attachments/assets/4c473d85-58e7-4d9c-b0c8-ed36f38690bc" alt="Maker Spooler" style="width: 100%; border-radius: 8px; border: 1px solid #ddd;">
+    <a href="https://www.printables.com/model/515427-awesome-filament-spool-rewinder-upgraded#preview.sZFeN" target="_blank">
+      <img src="https://github.com/user-attachments/assets/4c473d85-58e7-4d9c-b0c8-ed36f38690bc" alt="Awesome Spool Rewinder" style="width: 100%; border-radius: 8px; border: 1px solid #ddd; aspect-ratio: 4/3; object-fit: cover;">
     </a>
-    <p style="font-size: 0.8em; color: #666;">Projet Communautaire Maker</p>
+    <p style="font-size: 0.85em; color: #666; margin-top: 10px;"><b>Awesome Rewinder</b><br>Inspiration Guide-fil</p>
   </div>
 
 </div>
