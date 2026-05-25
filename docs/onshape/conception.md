@@ -15,7 +15,7 @@ Une fois notre vision du projet clarifiée, nous avons débuté la phase de mod�
 
 Le processus de fabrication est divisé en plusieurs étapes clés :
 
-1. [Attrape Bobine](conception_1)
+1. [Attrape Bobine](https://github.com/cguyot2006/projet-bobiner/blob/main/docs/onshape/conception_1.md)
 2. [Stand Bobines](conception_2)
 3. [Engrenage](conception_3)
 4. [Capteur de Tension](conception_4)
