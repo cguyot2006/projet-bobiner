@@ -4,7 +4,6 @@ title: Première pièce
 parent: Conception CAO
 nav_order: 4
 ---
----
 
 ## La quatrième pièce : Le Capteur de Tension
 
