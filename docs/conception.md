@@ -18,10 +18,18 @@ Pour concevoir cette pièce universelle, nous avons analysé deux types de bobin
 
 Le but: Concevoir une interface unique capable de s'adapter aux deux diamètres intérieurs afin d'équiper nos deux moteurs de manière standardisée.
 
-### Modèle 3D Interactif :
-<iframe height="500" width="100%" src="https://modelembedder.net/embed?did=a2ca14590071317756405ddb&wvm=v&wvmid=856be950d975c9576b279a8c&eid=a49029c09177bc4eebaac3f4&elementType=ASSEMBLY" frameborder="0"></iframe>
+### Modèles 3D Interactifs
 
-<iframe height="500" width="100%" src="https://modelembedder.net/embed?did=a2ca14590071317756405ddb&wvm=v&wvmid=36db1a26917329635d174889&eid=ac5b7edd050a7108625beb73&elementType=PARTSTUDIO" frameborder="0"></iframe>
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
 
+  <div style="flex: 1; min-width: 300px; text-align: center;">
+    <iframe height="450" width="100%" src="https://modelembedder.net/embed?did=a2ca14590071317756405ddb&wvm=v&wvmid=36db1a26917329635d174889&eid=ac5b7edd050a7108625beb73&elementType=PARTSTUDIO" frameborder="0" style="border: 1px solid #eee; border-radius: 8px;"></iframe>
+    <p style="margin-top: 10px; font-weight: bold; color: #2c3e50;">Zoom sur la pièce : L'Attrape-Bobine (Part Studio)</p>
+  </div>
 
+  <div style="flex: 1; min-width: 300px; text-align: center;">
+    <iframe height="450" width="100%" src="https://modelembedder.net/embed?did=a2ca14590071317756405ddb&wvm=v&wvmid=856be950d975c9576b279a8c&eid=a49029c09177bc4eebaac3f4&elementType=ASSEMBLY" frameborder="0" style="border: 1px solid #eee; border-radius: 8px;"></iframe>
+    <p style="margin-top: 10px; font-weight: bold; color: #2c3e50;">Vue d'ensemble : Assemblage avec bobine et moteur</p>
+  </div>
 
+</div>
