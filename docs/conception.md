@@ -9,7 +9,18 @@ has_children: true
 
 <div style="text-align: justify;">
 Une fois notre vision du projet clarifiée, nous avons débuté la phase de modélisation 3D sur Onshape.
+
+## Aperçu des Étapes
+
+Le processus de fabrication est divisé en plusieurs étapes clés :
+
+1. [Préparation des Matériaux](etape_1)
+2. [Assemblage](etape_2)
+3. [Finition]()
+4. [Contrôle Qualité]()
 </div>
+
+
 
 ---
 
