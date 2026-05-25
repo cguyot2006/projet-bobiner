@@ -133,6 +133,7 @@ Le contrôle de la tension est l'élément critique pour garantir un enroulage r
 Le signal analogique de la cellule de charge est traité par un ESP32. Si la tension s'écarte de la valeur de consigne, l'algorithme ajuste instantanément la vitesse des moteurs pour rétablir l'équilibre.
 </div>
 
+### Modèles 3D
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px; margin-top: 20px;">
   <div style="flex: 1; min-width: 300px; text-align: center;">
     <iframe height="400" width="100%" src="https://modelembedder.net/embed?did=a2ca14590071317756405ddb&wvm=v&wvmid=e545353ab16c7c93b2b05265&eid=d7ed1f49986d3140a7375e72&elementType=ASSEMBLY" frameborder="0" style="border: 1px solid #eee; border-radius: 8px;"></iframe>
