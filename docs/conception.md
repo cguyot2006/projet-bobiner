@@ -15,8 +15,8 @@ Une fois notre vision du projet clarifiée, nous avons débuté la phase de mod�
 L'Attrape-Bobine est l'élément mécanique qui assure la liaison entre l'axe du moteur et la bobine pour transmettre le mouvement de rotation. 
 
 Pour concevoir cette pièce universelle, nous avons analysé deux types de bobines aux dimensions différentes :
-* **La bobine cible :** Un modèle vide provenant du Makerspace (format 1kg).
-* **La bobine source :** Le format plein fourni par un fournisseur de l'école (format industriel).
+* <u>La bobine cible :</u> Un modèle vide provenant du Makerspace (format 1kg).
+* <u>La bobine source :</u> Le format plein fourni par un fournisseur de l'école (format industriel).
 
 Le but: Concevoir une interface unique capable de s'adapter aux deux diamètres intérieurs afin d'équiper nos deux moteurs de manière standardisée.
 
@@ -46,8 +46,8 @@ Le stand est composé de deux parois latérales. Pour surmonter les limites de v
 
 ### Double étage d'enroulage
 La structure est optimisée pour exploiter la verticalité afin de gagner de la place dans l'armoire de l'usine :
-1. **Partie inférieure :** Reçoit la bobine cible (1kg) qui sera entraînée par le moteur.
-2. **Partie supérieure :** Supporte la bobine source (pleine), facilitant le déroulage vers l'étage inférieur.
+1. <u>Partie inférieure :</u> Reçoit la bobine cible (1kg) qui sera entraînée par le moteur.
+2. <u>Partie supérieure :</u> Supporte la bobine source (pleine), facilitant le déroulage vers l'étage inférieur.
 
 
 ### Modèles 3D 
