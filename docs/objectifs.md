@@ -18,17 +18,17 @@ C’est pour répondre à ces contraintes que notre projet a vu le jour. Nous av
 
 ## Objectifs du Projet
 
-Enroulage / désenroulage bi-directionnel de l'approvisionnment en matière 3D (filament)					
-Projet portable ou intégré directement à l'usine (à l'aide d'une armoire en plexiglass)					
-Modélisation 3D d'un stand pour le fonctionnement du projet					
-Garder la tension constante					
-Interface PID utilisateur - marche/arret validité de la tention, retour de fonctionnement 					
-Travail et organisation d'équipe					
-Résultat compatible avec les bobines du makerspace et /ou avec les bobines en nid d'abeille (1kg)					
-Projet esthétique et soigné					
-Respect du budget allouer 					
-Site web détaillant les étapes de construction					
-Vidéo respectant le temps limité					
+- Enroulage / désenroulage bi-directionnel de l'approvisionnment en matière 3D (filament)					
+- Projet portable ou intégré directement à l'usine (à l'aide d'une armoire en plexiglass)					
+- Modélisation 3D d'un stand pour le fonctionnement du projet					
+- Garder la tension constante					
+- Interface PID utilisateur - marche/arret validité de la tention, retour de fonctionnement 					
+- Travail et organisation d'équipe					
+- Résultat compatible avec les bobines du makerspace et /ou avec les bobines en nid d'abeille (1kg)					
+- Projet esthétique et soigné					
+- Respect du budget allouer 					
+- Site web détaillant les étapes de construction					
+- Vidéo respectant le temps limité					
 
 # Existant
 
