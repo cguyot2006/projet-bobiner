@@ -1,4 +1,9 @@
 ---
+layout: default
+title: Première pièce
+parent: Conception CAO
+nav_order: 2
+---
 
 ## La deuxième pièce : "Le Stand Bobines"
 
