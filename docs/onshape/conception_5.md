@@ -1,3 +1,10 @@
+---
+layout: default
+title: Cinquième pièce
+parent: Conception CAO
+nav_order: 5
+---
+
 ## La cinquième pièce : Le Guide Fil
 
 <div style="text-align: justify;">
