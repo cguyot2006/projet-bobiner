@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Première pièce
+title: Troisième pièce
 parent: Conception CAO
 nav_order: 3
 ---
