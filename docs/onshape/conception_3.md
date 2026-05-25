@@ -1,3 +1,10 @@
+---
+layout: default
+title: Première pièce
+parent: Conception CAO
+nav_order: 3
+---
+
 
 ## La troisième pièce : Le chemin d'engrenage - du moteur au guide fil
 
