@@ -15,51 +15,11 @@ Une fois notre vision du projet clarifiée, nous avons débuté la phase de mod�
 Le processus de fabrication est divisé en plusieurs étapes clés :
 
 1. [Première pièce](conception_1)
-2. [Assemblage](etape_2)
+2. [Deuxième pièce ](conception_2)
 3. [Finition]()
 4. [Contrôle Qualité]()
 </div>
 
-
----
-
-## La deuxième pièce : "Le Stand Bobines"
-
-<div style="text-align: justify;">
-Cette pièce constitue le châssis principal du projet : c'est la structure porteuse sur laquelle tous les autres composants viennent s'assembler. 
-<br><br>
-Le stand est composé de deux parois latérales. Pour surmonter les limites de volume d'impression de nos machines, chaque paroi a été divisée en trois segments distincts. 
-</div>
-
-* <u>Fixation verticale :</u> Les parties supérieures sont solidarisées à la base via des inserts de 4 mm, garantissant la rigidité de l'ensemble.
-* <u>Système de rotation :</u> Les parois sont reliées entre elles par des rouleaux transversaux. Ces derniers servent de support aux bobines, permettant une rotation fluide et sans friction excessive grâce à des roulements à billes situés à l'intérieur.
-
-### Double étage d'enroulage
-
-<div style="text-align: justify;">
-La structure est optimisée pour exploiter la verticalité afin de gagner de la place dans l'armoire de l'usine :
-</div>
-
-1. <u>Partie inférieure :</u> Reçoit la bobine cible (1kg) qui sera entraînée par le moteur.
-2. <u>Partie supérieure :</u> Supporte la bobine source (pleine), facilitant le déroulage vers l'étage inférieur.
-
-### Modèles 3D 
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px;">
-  <div style="flex: 1; min-width: 300px; text-align: center;">
-    <iframe height="450" width="100%" src="https://modelembedder.net/embed?did=a2ca14590071317756405ddb&wvm=v&wvmid=77c72214a6dd4a384f372649&eid=37382988493c4a7cacba8a10&elementType=ASSEMBLY" frameborder="0" style="border: 1px solid #eee; border-radius: 8px;"></iframe>
-    <p style="margin-top: 10px; font-weight: bold; color: #2c3e50;">Assemblage du stand (Structure seule)</p>
-  </div>
-  <div style="flex: 1; min-width: 300px; text-align: center;">
-    <iframe height="450" width="100%" src="https://modelembedder.net/embed?did=a2ca14590071317756405ddb&wvm=v&wvmid=606471c42e0f39a07bfc4b3a&eid=37382988493c4a7cacba8a10&elementType=ASSEMBLY" frameborder="0" style="border: 1px solid #eee; border-radius: 8px;"></iframe>
-    <p style="margin-top: 10px; font-weight: bold; color: #2c3e50;">Assemblage du stand avec bobines</p>
-  </div>
-</div>
-
-{: .note }
-> <div style="text-align: justify;">On peut observer de nombreuses perforations sur la partie inférieure du châssis. Celles-ci ont été calculées avec précision pour accueillir le train d'engrenages qui actionne le guide-fil. Une fois le guide-fil en mouvement, cela distribue le filament proprement sur toute la largeur de la bobine, évitant ainsi les chevauchements et les blocages lors de l'utilisation future.</div>
-
----
 
 ## La troisième pièce : Le chemin d'engrenage - du moteur au guide fil
 
