@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Première pièce
-parent: Conception
+parent: Conception CAO
 nav_order: 1
 ---
 
