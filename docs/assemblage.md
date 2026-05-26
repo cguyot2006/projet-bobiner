@@ -17,17 +17,20 @@ Une fois toutes les pièces imprimées en 3D, nous avons rapidement réalisé qu
 
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
   <div style="flex: 1; min-width: 300px; text-align: justify;">
-    Les parois principales du Stand Bobines représentent un défi logistique : chaque pièce nécessite 2h40 d'impression et impose un plateau large, disponible uniquement sur les Bambu Lab P1P du Makerspace. 
+    Les parois principales du <u>Stand Bobines</u> représentent un défi logistique : chaque pièce nécessite 2h40 d'impression et impose un plateau large, disponible uniquement sur nos <b>Bambu Lab P1P</b>. 
     <br><br>
-    Lors de l'assemblage, nous avons découvert une erreur de modélisation : le diamètre des axes était légèrement trop important pour laisser passer les roulements à billes. Après avoir tenté de limer manuellement les axes sans succès, nous avons dû improviser une solution thermique.
+    Lors de l'assemblage, nous avons découvert une erreur de modélisation : le diamètre des axes était légèrement trop important pour laisser passer les <u>roulements à billes</u>. Après avoir tenté de limer manuellement les axes sans succès, nous avons dû improviser une solution thermique.
     <br><br>
-    En utilisant un fer à souder, nous avons chauffé la bague interne du roulement. Une fois la température suffisante atteinte, une légère pression a permis d'enfoncer le roulement dans le plastique ramolli. Cette technique "à chaud" nous a permis de sauver des pièces volumineuses et d'éviter un gaspillage important de filament.
+    En utilisant un <u>fer à souder</u>, nous avons chauffé la bague interne du roulement. Une fois la température suffisante atteinte, une légère pression a permis d'enfoncer le roulement dans le plastique ramolli. Cette technique "à chaud" nous a permis de sauver des pièces volumineuses et d'éviter un gaspillage important de filament.
   </div>
   <div style="flex: 1; min-width: 300px; text-align: center;">
     <img src="https://github.com/user-attachments/assets/34d5c3ba-704e-42d0-80a7-17bb18986302" alt="Ajustement thermique" style="width: 100%; border-radius: 8px; border: 1px solid #ddd;">
+    <p style="margin-top: 5px; font-size: 0.9em; color: #d9534f;">
+      <u>Diamètre roulement à bille :</u> 8 mm<br>
+      <u>Diamètre pied stand bobine :</u> 9.2 mm
+    </p>
   </div>
 </div>
-
 {: .note }
 > **À faire :** Il faudra prendre une photo de cette technique spécifique (fer à souder, marteau et pince) pour illustrer le processus de sauvetage des pièces.
 
