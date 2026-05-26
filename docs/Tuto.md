@@ -1,8 +1,4 @@
----
-layout: default
-nav_order: 7
-title: Tutoriels Creation CAO
----
+
 
 # Tutoriels et Montée en Compétences CAO
 
