@@ -8,15 +8,15 @@ nav_order: 3
 # Réflexion Conception CAO
 
 <div style="text-align: justify;">
-La phase de conception CAO a débuté par une analyse de l'état de l'art afin d'évaluer les architectures existantes sur le marché. Notre objectif était de confronter différentes configurations mécaniques pour dégager le meilleur compromis entre compacité, fiabilité du guidage et facilité d'intégration électronique.
+La phase de réflexion CAO a débuté par une analyse du marché des enrouleurs 3D. Notre objectif était de comparer différents design pour trouver le meilleur compromis entre portabilité, fiabilité du guidage et facilité d'assemblage.
 </div>
 
 ---
 
-## 1. Première approche : L'architecture horizontale (Design classique)
+## 1. Première approche : L'horizontale (Design classique)
 
 <div style="text-align: justify;">
-Notre première intention s'est portée sur un design horizontal et linéaire, une configuration standard très répandue sur les plateformes de partage de modèles 3D (Pastamatic, enrouleurs industriels légers). 
+Notre première intention s'est portée sur un design horizontal et linéaire, une configuration standard très connue sur les plateformes de partage de modèles 3D. 
 <br><br>
 <b>Avantages de cette architecture :</b>
 <br>
@@ -33,7 +33,7 @@ Notre première intention s'est portée sur un design horizontal et linéaire, u
 • <u>Encombrement au sol important :</u> Ce design consomme une surface de travail (footprint) conséquente, ce qui va à l'encontre de notre cahier des charges d'intégration en atelier ou dans une armoire d'usine.
 </div>
 
-### Veille technologique et inspirations (Horizontales)
+### Inspirations horizontales
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 15px; margin-top: 15px;">
   <div style="flex: 1; min-width: 250px; text-align: center;">
@@ -56,7 +56,7 @@ Notre première intention s'est portée sur un design horizontal et linéaire, u
   </div>
 </div>
 
-### Avant-projets et premiers croquis
+### Premiers croquis
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 15px; margin-top: 15px;">
   <div style="flex: 1; min-width: 280px; text-align: center;">
@@ -69,10 +69,10 @@ Notre première intention s'est portée sur un design horizontal et linéaire, u
 
 ---
 
-## 2. Architecture retenue : Le design vertical superposé
+## 2. Design retenue : Le vertical 
 
 <div style="text-align: justify;">
-Pour répondre pleinement aux exigences de compacité, nous avons réorienté notre conception vers une <u>architecture verticale</u>, positionnant les deux bobines l'une au-dessus de l'autre (étage inférieur pour la bobine cible, étage supérieur pour la bobine source).
+Pour répondre pleinement aux exigences de compacité, nous nous sommes dirigé vers un design vertical, positionnant les deux bobines l'une au-dessus de l'autre (étage inférieur pour la bobine cible, étage supérieur pour la bobine source).
 <br><br>
 <b>Avantages de cette architecture :</b>
 <br>
@@ -82,7 +82,7 @@ Pour répondre pleinement aux exigences de compacité, nous avons réorienté no
 <br><br>
 <b>Inconvénients et contraintes associées :</b>
 <br>
-• <u>Densification mécanique :</u> La réduction drastique du volume global nous impose une phase d'intégration CAO beaucoup plus rigoureuse. L'agencement du train d'engrenages, du moteur et du guide-fil doit être calculé au millimètre près pour éviter toute collision mécanique lors de l'assemblage.
+• <u>Densification mécanique :</u> La réduction du volume global nous impose une phase d'intégration CAO beaucoup plus rigoureuse. L'intégration du train d'engrenages, du moteur et du guide-fil doit être calculé au millimètre près pour éviter toute collision mécanique lors de l'assemblage.
 </div>
 
 ### Inspirations et références (Verticales)
@@ -106,7 +106,7 @@ Pour répondre pleinement aux exigences de compacité, nous avons réorienté no
 
 <div style="text-align: center; margin-top: 20px;">
   <img src="https://github.com/user-attachments/assets/b276a541-20cd-4181-b549-511e3a9abde6" alt="Premier dessin design vertical" style="max-width: 450px; width: 100%; border-radius: 8px; border: 1px solid #ddd;">
-  <p style="margin-top: 8px; font-size: 0.85em; font-style: italic;">"Épure de principe et répartition des masses du châssis vertical"</p>
+  <p style="margin-top: 8px; font-size: 0.85em; font-style: italic;">"Schéma châssis vertical"</p>
 </div>
 
 ---
