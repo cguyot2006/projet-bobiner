@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Composants
-parent: etudes
+parent: Études et choix techniques
 nav_order: 1
 ---
 
