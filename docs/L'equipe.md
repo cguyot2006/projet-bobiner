@@ -4,5 +4,7 @@ nav_order: 8
 title: L'equipe
 ---
 
-#fifi est la meilleure
-l'équipe :
+#COMPOSITION DE L'EQUIPE
+Fidélia DENON
+Charlotte GUYOT
+Théo MANGATAL
