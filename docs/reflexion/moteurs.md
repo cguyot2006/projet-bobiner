@@ -4,7 +4,7 @@ title: Moteurs
 parent: Études et choix techniques
 nav_order: 2
 ---
-#  Dimensionnement Énergétique : Moteurs et Dynamique de Charge
+# Réflexion Moteurs et Charge
 
 <div style="text-align: justify;">
 Afin de sélectionner une motorisation adaptée, capable de vaincre l'inertie de la bobine et de supporter la tension mécanique du filament sans décrochage, nous avons mené une étude de dimensionnement dynamique. L'objectif est de déterminer le couple total minimal requis (C<sub>total</sub>).
