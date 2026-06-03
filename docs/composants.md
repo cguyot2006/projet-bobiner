@@ -29,7 +29,7 @@ La mesure de la tension dynamique d'un filament en cours d'enroulement est une p
   </div>
   <div style="flex: 1; min-width: 300px; text-align: center;">
     <img src="https://github.com/user-attachments/assets/ed818643-1075-4c53-afb4-2a33111de8a7" alt="Capteur de tension - trappe cercle bleu" style="width: 100%; border-radius: 8px; border: 1px solid #ddd;">
-    <p style="margin-top: 8px; font-style: italic; font-size: 0.9em;">"Capteur de tension - Concept initial de la trappe"</p>
+    <p style="margin-top: 8px; font-style: italic; font-size: 0.9em;">Capteur de tension - Concept initial de la trappe</p>
   </div>
 </div>
 
@@ -53,7 +53,7 @@ La mesure de la tension dynamique d'un filament en cours d'enroulement est une p
   </div>
   <div style="flex: 1; min-width: 300px; text-align: center;">
     <img src="https://github.com/user-attachments/assets/2d0715d0-7f2c-4854-a712-c8d2aeb63008" alt="schema bras danceur - capteur de tension" style="width: 100%; border-radius: 8px; border: 1px solid #ddd;">
-    <p style="margin-top: 8px; font-style: italic; font-size: 0.9em;">"Schéma de principe d'un capteur de tension à bras danseur"</p>
+    <p style="margin-top: 8px; font-style: italic; font-size: 0.9em;">Schéma de principe d'un capteur de tension à bras danseur</p>
   </div>
 </div>
 
@@ -69,7 +69,7 @@ La mesure de la tension dynamique d'un filament en cours d'enroulement est une p
   </div>
   <div style="flex: 1; min-width: 300px; text-align: center;">
     <img src="https://github.com/user-attachments/assets/b88ac2b1-08af-4ec3-b085-5062db564c62" alt="TE-22 Tension Sensor - Checkline EU" style="width: 100%; border-radius: 8px; border: 1px solid #ddd;">
-    <p style="margin-top: 8px; font-style: italic; font-size: 0.9em;">"TE-22 Tension Sensor - Checkline EU"</p>
+    <p style="margin-top: 8px; font-style: italic; font-size: 0.9em;">TE-22 Tension Sensor - Checkline EU</p>
   </div>
 </div>
 
@@ -94,7 +94,7 @@ Inspirés par la disposition en triangle de la solution industrielle, nous avons
     Les données numérisées sont transmises à l'ESP32 via un bus série synchrone bifilaire (lignes <u>DOUT</u> pour les données et <u>SCK</u> pour l'horloge), ce qui immunise le signal contre les interférences électromagnétiques générées par les moteurs à proximité.
   </div>
   <div style="flex: 1; min-width: 300px; text-align: center;">
-    <img src="https://github.com/user-attachments/assets/59c678c4-d16d-4a88-b435-6475bd7fbef1" alt="cellule de charge a jauges de contraintes" style="width: 100%; border-radius: 8px; border: 1px solid #ddd;">
+    <img src="https://github.com/user-attachments/assets/59c678c4-d16d-4a88-b435-6475bd7fbef1" alt="Cellule de charge a jauges de contraintes" style="width: 100%; border-radius: 8px; border: 1px solid #ddd;">
     <p style="margin-top: 8px; font-style: italic; font-size: 0.9em;">"Intégration finale de la cellule de charge à jauges de contraintes"</p>
   </div>
 </div>
