@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Composants
+title: Capteur de tension
 parent: Études et choix techniques
 nav_order: 1
 ---
