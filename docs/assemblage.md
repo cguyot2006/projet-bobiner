@@ -5,7 +5,7 @@ title: Assemblage
 has_children: true
 ---
 
-# Assemblage du Debobiner
+#  L'Assemblage du Débobineur : Entre CAO et Réalité
 
 <div style="text-align: justify;">
 Une fois toutes les pièces imprimées en 3D, nous avons rapidement réalisé qu'un assemblage dans le monde réel est bien plus complexe qu'une simulation sur Onshape. Entre les tolérances d'impression et les imprévus matériels, cette étape a été riche en enseignements.
@@ -28,7 +28,7 @@ Une fois toutes les pièces imprimées en 3D, nous avons rapidement réalisé qu
   <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
     
     <div style="flex: 1; min-width: 300px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/8180db77-6efb-43c3-aebb-6074f7d02b1f" alt="chauffement du roulement a bille avec fer a soudder" style="width: 100%; border-radius: 8px; border: 1px solid #ddd;">
+      <img src="https://github.com/user-attachments/assets/4855ee73-e43b-4645-ada0-5293ad07d977" alt="Chauffement du roulement à bille avec fer à souder" style="width: 100%; border-radius: 8px; border: 1px solid #ddd;">
       <p style="margin-top: 8px; font-style: italic; font-size: 0.9em;">"Chauffement du roulement à bille avec fer à souder"</p>
     </div>
 
@@ -42,9 +42,10 @@ Une fois toutes les pièces imprimées en 3D, nous avons rapidement réalisé qu
 
   </div>
 </div>
+
 ---
 
-### Résultat de la Péripétie #1
+###  Résultat de la Péripétie #1
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 15px; margin-top: 20px;">
 
@@ -62,7 +63,7 @@ Une fois toutes les pièces imprimées en 3D, nous avons rapidement réalisé qu
 
 ---
 
-### Conclusion de la Péripétie #1
+###  Conclusion de la Péripétie #1
 
 <div style="text-align: justify;">
 Cette expérience nous a appris deux leçons fondamentales pour la suite de nos projets :
