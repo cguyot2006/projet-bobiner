@@ -73,4 +73,89 @@ Cette expérience nous a appris deux leçons fondamentales pour la suite de nos 
 2. <u>Résilience technique :</u> Une erreur de dimension ne signifie pas forcément que la pièce doit finir à la poubelle. En utilisant les outils à notre disposition (fer à souder, usinage manuel), nous avons favorisé une approche <u>éco-responsable</u> en limitant la consommation de plastique inutile.
 </div>
 
+## 2. Péripétie #2 : La chaîne de transmission par engrenages
+
+<div style="text-align: justify;">
+La première étape de la fabrication de notre chaîne cinématique consistait à manufacturer les pignons. Nous avions le choix entre deux procédés de fabrication : l'impression 3D FDM ou la découpe laser (sur panneaux d'acrylique ou de bois médium).
+<br><br>
+<b>L'expérimentation de la découpe laser :</b>
+<br>
+Nos premiers essais ont été réalisés en bois découpé au laser. Malheureusement, en raison des tolérances de saignée du laser (kerf) ou d'une légère erreur de cotation sur la CAO, le diamètre intérieur du logement s'est avéré trop important. L'ajustement étant glissant voire lâche, le roulement à billes ne tenait pas en place et sortait de son orbite. Ces pièces ont donc dû être écartées.
+</div>
+
+<br>
+
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/7e3c53c2-cb25-428c-9caa-615b4392a19a" alt="engrenage en bois" style="max-width: 500px; width: 100%; border-radius: 8px; border: 1px solid #ddd;">
+  <p style="margin-top: 8px; font-style: italic; font-size: 0.9em;">"Prototype de pignon découpé au laser dans du bois"</p>
+</div>
+
+---
+
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 300px; text-align: justify;">
+    <b>Le passage à l'impression 3D et l'ajustement thermique :</b>
+    <br>
+    Nous nous sommes ensuite réorientés vers la fabrication additive. Cette fois, l'erreur s'est inversée : le diamètre intérieur du pignon imprimé était trop restreint pour permettre l'insertion mécanique du roulement. 
+    <br><br>
+    Pour résoudre cet ajustement serré sans réimprimer, nous avons réitéré la technique du <u>frettage thermique</u> : le roulement a été chauffé à l'aide d'une panne de fer à souder, puis inséré de force dans le logement en plastique de l'engrenage à l'aide d'un maillet. Le plastique s'est localement rétracté autour de la bague extérieure du roulement, assurant une parfaite cohésion.
+  </div>
+  <div style="flex: 1; min-width: 300px; text-align: center;">
+    <img src="https://github.com/user-attachments/assets/09469058-6f14-46cc-8c41-5b39bc924786" alt="engrenange en impression 3D + roulement a bille" style="width: 100%; border-radius: 8px; border: 1px solid #ddd;">
+    <p style="margin-top: 8px; font-style: italic; font-size: 0.9em;">"Intégration du roulement par insertion thermique dans le pignon imprimé 3D"</p>
+  </div>
+</div>
+
+---
+
+<div style="text-align: justify;">
+<b>Le problème d'implantation sur le bâti :</b>
+<br>
+Une fois les roulements solidarisés avec leurs engrenages, nous avons tenté de monter ces sous-ensembles sur les axes cylindriques du <u>Stand Bobine</u>. Nouveau problème : les portées d'arbres modélisées en CAO étaient trop courtes et trop étroites. Les roulements ne parvenaient pas à se positionner correctement, bloquant complètement la rotation du train d'engrenages.
+<br><br>
+La solution idéale aurait été de corriger la CAO et de lancer une nouvelle impression du stand. Cependant, face aux restrictions de temps et aux délais de livraison des machines, nous avons appliqué une solution de secours directement sur le châssis existant. 
+<br><br>
+À l'aide du fer à souder, nous avons appliqué une source de chaleur sur l'extrémité de l'axe en plastique. En insérant le roulement en position fonctionnelle, nous avons délicatement écrasé et étalé le plastique ramolli de l'axe (opération s'apparentant à un <u>matage ou rivetage thermique</u>). Cela a permis de créer un épaulement de maintien improvisé pour empêcher le pignon de glisser hors de son axe.
+<br><br>
+<b>Limites du système lors des essais dynamiques :</b>
+<br>
+Bien que géométriquement fonctionnelle à basse vitesse, cette fixation artisanale a montré ses limites lors du premier test motorisé. L'accélération et le couple du moteur ont généré des efforts axiaux trop importants pour notre butée en plastique : l'un des engrenages s'est désolidarisé et a été projeté hors de son logement sous l'effet de la force centrifuge.
+<br><br>
+Nous avons tenté une réparation à l'aide d'un système vis-boulon traversant pour sécuriser l'axe de rotation. Malheureusement, l'encombrement du moteur pas-à-pas situé immédiatement derrière le pignon empêchait le passage physique de l'écrou, provoquant une interférence mécanique insoluble.
+</div>
+
+---
+
+### Résultat de la Péripétie #2
+
+<div style="text-align: center; display: flex; flex-direction: column; align-items: center; gap: 20px;">
+  
+  <img src="https://github.com/user-attachments/assets/7ba8ed69-9ec1-4c14-878f-2a8eb9425cf9" alt="Défaut d'alignement et de maintien" style="max-width: 500px; width: 100%; border-radius: 8px; border: 1px solid #ddd;">
+  <p style="font-style: italic; font-size: 0.9em; margin-top: -10px;">"Détail de la zone d'interférence mécanique entre le pignon et la fixation du moteur"</p>
+
+  <video src="https://github.com/user-attachments/assets/02851e6d-d33d-4a11-8a32-b1a3a989a75a" controls style="max-width: 600px; width: 100%; border-radius: 8px; border: 1px solid #ddd;"></video>
+  <p style="font-style: italic; font-size: 0.9em; margin-top: -10px;">"Vidéo démonstrative du comportement dynamique et des vibrations de la transmission"</p>
+
+</div>
+
+---
+
+### Conclusion de la Péripétie #2
+
+<div style="text-align: justify;">
+Cet échec technique met en exergue l'importance capitale des <u>chaînes de cotes</u> et du calcul des tolérances d'ajustement en ingénierie mécanique. Une modélisation approximative ou l'omission du jeu fonctionnel nécessaire au mouvement d'une pièce crée systématiquement des effets en cascade lors de l'assemblage final, forçant à l'improvisation de correctifs qui altèrent la durabilité du système. 
+<br><br>
+La règle d'or apprise lors de cette étape reste la rigueur absolue des phases de contrôle métrologique en amont de toute fabrication.
+</div>
+
+---
+
+
+
+
+
+
+
+
+
 ---
