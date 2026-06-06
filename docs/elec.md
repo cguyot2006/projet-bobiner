@@ -32,7 +32,6 @@ Contrairement aux cartes microcontrôleurs standards de type Arduino, l'ESP32 in
   </div>
   <div style="flex: 0.8; min-width: 280px; text-align: center;">
     <img src="https://github.com/user-attachments/assets/a34dc7fc-08a5-4283-8de6-ace76f8e40cf" alt="Schéma d'interfaçage HX711 et ESP32" style="width: 100%; border-radius: 8px; border: 1px solid #ddd;">
-    <p style="margin-top: 8px; font-style: italic; font-size: 0.85em;">"Synoptique du circuit de conditionnement du signal de pesée"</p>
   </div>
 </div>
 
@@ -64,7 +63,6 @@ Les broches logiques de l'ESP32 délivrant un courant maximal de quelques millia
   </div>
   <div style="flex: 0.8; min-width: 280px; text-align: center;">
     <img src="https://github.com/user-attachments/assets/8b1c7957-3ec6-429f-8628-102339071d58" alt="Composants et Shield Électronique" style="width: 100%; border-radius: 8px; border: 1px solid #ddd;">
-    <p style="margin-top: 8px; font-style: italic; font-size: 0.85em;">"Aperçu du shield de commande et connecteurs moteurs"</p>
   </div>
 </div>
 
