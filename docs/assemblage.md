@@ -150,6 +150,66 @@ La règle d'or apprise lors de cette étape reste la rigueur absolue des phases 
 
 ---
 
+## 3. Péripétie #3 : Ajustement du bâti et frottements structurels
+
+<div style="text-align: justify;">
+Une fois la chaîne cinématique et la transmission par engrenages assemblées, nous avons procédé aux premiers essais dynamiques de rotation. La phase initiale à vide (sans charge mécanique) s'est déroulée avec succès, validant le comportement nominal des moteurs pas-à-pas. 
+<br><br>
+<b>La confrontation avec les bobines réelles :</b>
+<br>
+Les difficultés ont surgi lors de l'intégration des consommables nécessaires au test fonctionnel de débobinage/rembobinage. Pour ce faire, nous avons équipé l'étage inférieur d'une bobine vide provenant du Makerspace et l'étage supérieur d'une bobine de PLA pleine issue de l'usine. 
+<br><br>
+Si la bobine inférieure s'est insérée parfaitement dans son logement sans aucune contrainte mécanique, la bobine supérieure, en configuration de charge maximale, entrait en interférence physique directe avec les rouleaux de guidage latéraux. Ce contact indésirable a généré un <u>couple résistant par frottement</u> extrêmement élevé, suffisant pour provoquer la surcharge et le blocage complet du moteur.
+<br><br>
+<b>Arbitrage technique et résolution :</b>
+<br>
+Deux alternatives s'offraient à nous pour éliminer cette friction structurelle :
+<br>
+1. Modifier la CAO et réimprimer de nouveaux rouleaux de guidage optimisés, ce qui imposait un démontage complet et risqué du <i>Stand Bobine</i> (opération complexe compte tenu des fixations thermiques précédentes).
+<br>
+2. Procéder à une rectification rapide et locale directement sur la matière.
+<br><br>
+Fidèles à notre démarche de résilience sur le terrain, nous avons opté pour la seconde solution en exploitant à nouveau l'apport thermique du <u>fer à souder</u>. En utilisant la panne chaude du fer comme outil de pelage, nous avons réalisé une <u>ablation thermique localisée</u> du plastique excédentaire sur les parois des rouleaux. Cette modification géométrique a permis de redonner le jeu fonctionnel nécessaire au débattement de la bobine supérieure, libérant totalement sa rotation.
+</div>
+
+---
+
+###  Résultat de la Péripétie #3 : Rectification thermique des rouleaux
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 15px; margin-top: 20px;">
+
+  <div style="flex: 1; min-width: 200px; text-align: center;">
+    <img src="https://github.com/user-attachments/assets/5cd76f45-97a4-4a9b-949e-d570bbce3ef1" alt="Avant rectification" style="width: 100%; border-radius: 8px; border: 1px solid #ddd;">
+    <p style="margin-top: 8px; font-weight: bold; color: #2c3e50;">1. Avant</p>
+    <p style="font-size: 0.85em; font-style: italic; margin-top: -5px;">Zone de friction et d'interférence mécanique avec la bobine.</p>
+  </div>
+
+  <div style="flex: 1; min-width: 200px; text-align: center;">
+    <img src="https://github.com/user-attachments/assets/96f1665b-5819-4b3d-99c8-4b2bceddfbc0" alt="Pendant rectification" style="width: 100%; border-radius: 8px; border: 1px solid #ddd;">
+    <p style="margin-top: 8px; font-weight: bold; color: #2c3e50;">2. Pendant</p>
+    <p style="font-size: 0.85em; font-style: italic; margin-top: -5px;">Usinage par ablation thermique au fer à souder pour libérer du jeu.</p>
+  </div>
+
+  <div style="flex: 1; min-width: 200px; text-align: center;">
+    <img src="https://github.com/user-attachments/assets/734ee530-587a-42d3-89f5-9119be78919e" alt="Après rectification" style="width: 100%; border-radius: 8px; border: 1px solid #ddd;">
+    <p style="margin-top: 8px; font-weight: bold; color: #2c3e50;">3. Après</p>
+    <p style="font-size: 0.85em; font-style: italic; margin-top: -5px;">Résultat final : espace suffisant pour une rotation fluide et sans contact.</p>
+  </div>
+
+</div>
+
+---
+
+###  Conclusion de la Péripétie #3
+
+<div style="text-align: justify;">
+Cette troisième anomalie confirme une règle fondamentale de la conception industrielle : la nécessité absolue de prendre en compte la **variabilité dimensionnelle des composants tiers**. Bien que standardisées en apparence, les dimensions extérieures des bobines du commerce (largeur des flancs, épaisseur des rebords) varient sensiblement d'un fabricant à l'autre. 
+<br><br>
+Une modélisation CAO rigoureuse ne doit pas seulement s'appuyer sur un échantillon unique, mais doit intégrer des <u>cotes maximales enveloppes</u> et des marges de sécurité géométriques suffisantes (jeux fonctionnels) pour garantir l'interopérabilité totale du système, quelles que soient les tolérances des pièces intégrées.
+</div>
+
+---
+
 
 
 
