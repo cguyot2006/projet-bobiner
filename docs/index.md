@@ -33,22 +33,7 @@ Notre machine intègre :
 * **Polyvalence :** Compatible avec les bobines du Makerspace et les formats standard de 1kg.
 * **Design Intégré :** Le système est conçu pour être installé dans une armoire en plexiglass dédiée au sein de l'usine.
 
----
-layout: default
-title: Supports Vidéo
-parent: Livrables
-nav_order: 2
----
-
-# 🎥 Démonstrations Vidéo et Fonctionnelles
-
-<div style="text-align: justify;">
-Afin de valider la conformité de notre prototype par rapport au cahier des charges, nous avons réalisé plusieurs séquences vidéo. Ces supports permettent d'observer le comportement dynamique du Robobiner, la régulation en temps réel de la tension du filament ainsi que la synchronisation asymétrique de nos moteurs pas-à-pas en conditions réelles d'utilisation.
-</div>
-
----
-
-## Vidéo de présentation officielle (Livrable)
+## Vidéo de présentation officielle
 
 <div style="text-align: justify;">
 La vidéo principale retrace l'intégralité du projet, de la conception CAO sur Onshape jusqu'aux phases d'assemblage mécanique et de tests électroniques. Ce livrable est accessible directement via l'espace partagé Sharepoint de notre institution :
