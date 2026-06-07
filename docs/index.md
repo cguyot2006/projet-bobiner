@@ -5,17 +5,34 @@ title: Accueil
 permalink: /
 ---
 
+---
+layout: default
+title: Accueil
+nav_order: 1
+permalink: /
+---
+
+<div style="text-align: justify; line-height: 1.6;">
+
 # Bienvenue sur le site du Robobiner !
 
-Bienvenue dans la documentation du projet Robobiner. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
+Bienvenue dans la documentation officielle du projet <b>Robobiner</b>. Ce site technique a été conçu pour regrouper l'intégralité de nos ressources et fournir toutes les clés nécessaires pour comprendre, exploiter et reproduire efficacement notre système d'enroulement et de débobinage automatisé. Vous y trouverez nos choix de conception CAO, nos développements électroniques, ainsi que nos retours d'expérience de fabrication.
 
-[Notre projet sur Onshape](https://cad.onshape.com/documents/a2ca14590071317756405ddb/w/9ec6a708638f83f591f04863/e/d7ed1f49986d3140a7375e72?renderMode=0&uiState=6a25804ec591c880ea095573){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Notre repo GitHub](https://github.com/cguyot2006/projet-bobiner/tree/main){: .btn .fs-5 .mb-4 .mb-md-0 }
+<br>
 
-<iframe height="600" width="100%" src="https://modelembedder.net/embed?did=a2ca14590071317756405ddb&wvm=v&wvmid=856be950d975c9576b279a8c&eid=e2fb31241970e6b4d31bf182&elementType=ASSEMBLY" frameborder="0"></iframe>
+<div style="margin-bottom: 30px; text-align: left;">
+  <a href="https://cad.onshape.com/documents/a2ca14590071317756405ddb/w/9ec6a708638f83f591f04863/e/d7ed1f49986d3140a7375e72?renderMode=0&uiState=6a25804ec591c880ea095573" class="btn btn-primary fs-5 mb-4 mb-md-0 mr-2" target="_blank"> Notre projet sur Onshape</a>
+  <a href="https://github.com/cguyot2006/projet-bobiner/tree/main" class="btn fs-5 mb-4 mb-md-0" target="_blank"> Notre dépôt GitHub</a>
+</div>
 
-{: .warning }
->Pour intégrer la visualisation de votre projet Onshape, utilisez le site https://modelembedder.net . Activez le partage par lien via l'outil de partage de Onshape. n'oubliez pas d'activer l'option "export". Puis completez l'iframe ci-dessus avec le lien généré par le site https://modelembedder.net. Vous pouvez mettre à jour également le bouton avec le lien de partage de votre modèle.
+<div style="text-align: center; margin-top: 25px; margin-bottom: 25px;">
+  <img src="https://github.com/user-attachments/assets/91cfd4c9-8eec-4740-901a-886816f6479b" alt="Projet Robobiner" style="max-width: 550px; width: 100%; height: auto; border-radius: 10px; border: 1px solid #ddd; box-shadow: 0 4px 12px rgba(0,0,0,0.1); display: block; margin: 0 auto;">
+  <p style="margin-top: 12px; font-weight: bold; font-size: 1.05em; color: #2c3e50; letter-spacing: 0.5px;">Vue d'ensemble du Projet Robobiner</p>
+</div>
+
+---
+
+</div>
 
 
 ## À propos du Projet
