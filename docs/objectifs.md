@@ -10,11 +10,14 @@ ce projet à pour bute de créer un rebobiner / débobineur de bobine de filamen
 
 ## Contexte du Projet
 
-UniLaSalle Amiens possède une ligne de production à but pédagogique . Cette ligne, l'Usine Ecole 4.0, imprime, conditionne et receptionne des pièces 3D. Cette dernière repose donc en grande partie sur une utilisation intensive des imprimantes 3D.
+UniLaSalle Amiens possède une ligne de production à but pédagogique.
+Cette ligne, "l'Usine Ecole 4.0", imprime, conditionne et receptionne des pièces 3D. Cette dernière repose donc en grande partie sur une utilisation intensive des imprimantes 3D.
 
-Dans ce contexte, la gestion des bobines de filament qui approvisionnenent les imprimantes se révèle rapidement problématique. Le format des bobines varie, il peut être parfois volumineux et lourd, ce qui complique leur manipulation et entraînent des pertes de temps lors des opérations de changement ou de préparation du filament.
+Dans ce contexte, l'utilisation d'une grande quantitée de filament 3D devient coûteux pour l'école.
+Nous avont donc reflechis à la posibilité d'achetté des bobines de filament 3D en plus lourdes soit de 2 à 3kg  ce qui reviendrai alors moins cher au kilo. 
+Problème, les imprimante 3D de l'école n'utilise que des bobine de 1kg. 
 
-C’est pour répondre à ces contraintes que notre projet a vu le jour. Nous avons pour objectif de concevoir un enrouleur, capable de transférer et reconditionner facilement le filament depuis des bobines de tout format vers des bobines standardisées, parfaitement adaptées aux imprimantes de l’Usine École  4.0.
+C’est pour répondre à ces contraintes que notre projet le "Roboniner" a vu le jour. Nous avons pour objectif de concevoir un enrouleur, capable de transférer et reconditionner facilement le filament depuis des bobines de tout format vers des bobines standardisées de 1kg, parfaitement adaptées aux imprimantes de l’Usine École  4.0.
 
 ## Objectifs du Projet
 
