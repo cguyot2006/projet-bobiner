@@ -74,9 +74,8 @@ Les broches logiques de l'ESP32 délivrant un courant maximal de quelques millia
 La phase de développement sur l'IDE Arduino a mis en évidence plusieurs contraintes techniques majeures :
 <br><br>
 1. <u>Focntionnement :</u> Sur le plan ergonomique et opérationnel, la séquence d'utilisation actuelle s'avère encore contraignante et demande à être fluidifiée. Dans la pratique, la dérive naturelle du capteur de force impose de répéter régulièrement la procédure de calibration, ce qui alourdit la mise en route du système. Pour pallier cette rigidité et offrir un contrôle plus intuitif à l'opérateur, l'interface homme-machine (IHM) matérielle doit être développée. L'intégration de boutons poussoirs physiques permettrait d'ajuster dynamiquement (augmenter ou diminuer) la consigne de vitesse des moteurs en temps réel. De plus, l'ajout d'un interrupteur général (switch ON/OFF) est envisagé pour offrir une mise en marche simplifiée et un arrêt immédiat de la régulation et des moteurs, garantissant ainsi un meilleur contrôle et une sécurisation du processus de bobinage.
-<br>
+<br><br><br>
 
-  
 2. <u>Régulation des moteurs :</u> Bien que fonctionnelle, la boucle de régulation actuelle constitue un axe d'amélioration prioritaire pour optimiser la fiabilité et la fluidité du système. Actuellement, l'algorithme réagit de manière trop directe et abrupte aux données transmises par la cellule de charge. Ce comportement engendre un phénomène d'oscillation mécanique (ou pompage) : le fil se tend de manière excessive, ce qui provoque un arrêt ou un ralentissement brusque des moteurs, puis se relâche, entraînant une accélération soudaine et un déroulement trop rapide. L'évolution logicielle vers un asservissement plus avancé, tel que l'intégration d'un correcteur PID (Proportionnel, Intégral, Dérivé), s'avère nécessaire. Cette mise à niveau permettrait d'amortir ces variations, d'anticiper l'inertie physique du fil et de lisser précisément les accélérations afin de maintenir une tension de bobinage constante, sans à-coups ni blocages..
 </div>
 
