@@ -5,9 +5,9 @@ title: Accueil
 permalink: /
 ---
 
-# Bienvenue sur le site du Debobiner !
+# Bienvenue sur le site du Robobiner !
 
-Bienvenue dans la documentation du projet Debobiner. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
+Bienvenue dans la documentation du projet Robobiner. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
 
 [Notre projet sur Onshape](https://cad.onshape.com/documents/a2ca14590071317756405ddb/w/9ec6a708638f83f591f04863/e/d7ed1f49986d3140a7375e72?renderMode=0&uiState=6a25804ec591c880ea095573){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Notre repo GitHub](https://github.com/cguyot2006/projet-bobiner/tree/main){: .btn .fs-5 .mb-4 .mb-md-0 }
