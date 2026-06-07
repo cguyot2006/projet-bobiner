@@ -31,7 +31,7 @@ Contrairement aux cartes microcontrôleurs standards de type Arduino, l'ESP32 in
     Ce signal infime étant inexploitable par les convertisseurs analogique-numérique (CAN) internes de l'ESP32, nous insérons un circuit conditionneur dédié : le <b>HX711</b>. Ce composant amplifie le signal différentiel et opère une numérisation haute résolution sur 24 bits. La communication entre le HX711 et l'ESP32 s'effectue via une liaison série synchrone bifilaire (broches logiques <code>DOUT</code> pour les données et <code>SCK</code> pour l'horloge), une configuration garantissant une transmission numérique immunisée contre le bruit électromagnétique ambiant.
   </div>
   <div style="flex: 0.8; min-width: 280px; text-align: center;">
-    <img src="https://github.com/user-attachments/assets/a34dc7fc-08a5-4283-8de6-ace76f8e40cf" alt="Cellule de charge à jauge de contrainte" style="width: 100%; border-radius: 8px; border: 1px solid #ddd;">
+  <img src="https://github.com/user-attachments/assets/6a105825-8be0-44ce-8719-02fc91a0de0c" alt="Cellule de charge à jauge de contrainte" style="width: 100%; border-radius: 8px; border: 1px solid #ddd;">
   </div>
 </div>
 
