@@ -38,9 +38,3 @@ C’est pour répondre à ces contraintes que notre projet le "Roboniner" a vu l
 Les bobines vides déja utilisé au Makerspace que nous nous servont comme exemple
 
 <iframe height="400" width="100%" src="https://modelembedder.net/embed?did=4a4d58609246d0bd35bbe052&wvm=v&wvmid=454d150f298dcc1c1ec7cf21&eid=1b27453f958be5a9c904a407&elementType=ASSEMBLY" frameborder="0"></iframe>
-
-
-
-# Cahier des Charges
-
-Nam dui ligula, fringilla a, euismod sodales, sollicitudin vel, wisi. Morbi auctor lorem non justo. Nam lacus libero, pretium at, lobortis vitae, ultricies et, tellus.
