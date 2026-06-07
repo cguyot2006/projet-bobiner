@@ -26,10 +26,6 @@ L'engrenage intégré à la pièce "Attrape-Bobine" est monté directement sur l
     <iframe height="450" width="100%" src="https://modelembedder.net/embed?did=a2ca14590071317756405ddb&wvm=v&wvmid=59245a2e6b4441e9558d25dd&eid=7b8f7417ac2f0cad51f23a83&elementType=PARTSTUDIO" frameborder="0" style="border: 1px solid #eee; border-radius: 8px;"></iframe>
     <p style="margin-top: 10px; font-weight: bold; color: #2c3e50;">Détail du train d'engrenages<br><span style="font-weight: normal; font-size: 0.85em;">Du premier pignon (Attrape-Bobine) au dernier (rotation du Guide-Fil).</span></p>
   </div>
-  <div style="flex: 1; min-width: 300px; text-align: center;">
-    <iframe height="450" width="100%" src="https://modelembedder.net/embed?did=a2ca14590071317756405ddb&wvm=v&wvmid=f55d95e54ddd2697724d21c4&eid=e2fb31241970e6b4d31bf182&elementType=ASSEMBLY" frameborder="0" style="border: 1px solid #eee; border-radius: 8px;"></iframe>
-    <p style="margin-top: 10px; font-weight: bold; color: #2c3e50;">Assemblage mécanique complet<br><span style="font-weight: normal; font-size: 0.85em;">Intégration du châssis, des moteurs, des engrenages et du système de guidage.</span></p>
-  </div>
 </div>
 
 {: .note }
