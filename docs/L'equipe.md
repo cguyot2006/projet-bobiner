@@ -1,10 +1,10 @@
 ---
 layout: default
 nav_order: 8
-title: L'equipe
+title: La teem
 ---
 
-COMPOSITION DE L'EQUIPE :
+COMPOSITION DE la TEEM :
 Fidélia DENON,
 Charlotte GUYOT et
 Théo MANGATAL
