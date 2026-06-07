@@ -1,3 +1,9 @@
+---
+layout: default
+nav_order: 8
+title: Améliorations 
+---
+
 # Améliorations possibles
 
 Bien que le Robobiner remplisse efficacement sa fonction de bobinage automatisé, plusieurs pistes d'amélioration pourraient être explorées afin d'augmenter ses performances, sa fiabilité et son confort d'utilisation.
