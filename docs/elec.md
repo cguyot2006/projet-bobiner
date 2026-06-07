@@ -15,7 +15,7 @@ Notre système d'enroulement automatique repose sur l'intégration entre une cha
 ## 1. Centralisation des tâches : L'ESP32 et l'environnement industriel
 
 <div style="text-align: justify;">
-Le cœur du système s'appuie sur le microcontrôleur <b>ESP32</b> (architecture Dual-Core cadencée à 240 MHz). Ce choix est dicté par la nécessité de traiter simultanément deux tâches hautement critiques : la génération d'impulsions micro-secondes ultra-précises pour le pilotage des moteurs pas-à-pas d'une part, et l'échantillonnage continu du capteur d'effort d'autre part. 
+Le cœur du système s'appuie sur le microcontrôleur <u>ESP32</u> (architecture Dual-Core cadencée à 240 MHz). Ce choix est dicté par la nécessité de traiter simultanément deux tâches hautement critiques : la génération d'impulsions micro-secondes ultra-précises pour le pilotage des moteurs pas-à-pas d'une part, et l'échantillonnage continu du capteur d'effort d'autre part. 
 <br><br>
 Contrairement aux cartes microcontrôleurs standards de type Arduino, l'ESP32 intègre nativement des périphériques de communication avancés. Sa connectivité sans fil (Wi-Fi) ou filaire (via l'ajout d'un module Ethernet) permet de l'intégrer directement au sein d'un réseau industriel pour communiquer de manière transparente avec un **Automate Programmable Industriel (API / PLC)**. Cette architecture ouvre la voie à une supervision en temps réel (remontée de la tension du fil, vitesse des axes) et à la réception de consignes opérationnelles à l'aide de protocoles standards de l'industrie tels que <b>Modbus TCP</b>, <b>MQTT</b> ou <b>OPC UA</b>.
 </div>
@@ -31,7 +31,7 @@ Contrairement aux cartes microcontrôleurs standards de type Arduino, l'ESP32 in
     Ce signal infime étant inexploitable par les convertisseurs analogique-numérique (CAN) internes de l'ESP32, nous insérons un circuit conditionneur dédié : le <b>HX711</b>. Ce composant amplifie le signal différentiel et opère une numérisation haute résolution sur 24 bits. La communication entre le HX711 et l'ESP32 s'effectue via une liaison série synchrone bifilaire (broches logiques <code>DOUT</code> pour les données et <code>SCK</code> pour l'horloge), une configuration garantissant une transmission numérique immunisée contre le bruit électromagnétique ambiant.
   </div>
   <div style="flex: 0.8; min-width: 280px; text-align: center;">
-    <img src="https://github.com/user-attachments/assets/a34dc7fc-08a5-4283-8de6-ace76f8e40cf" alt="Schéma d'interfaçage HX711 et ESP32" style="width: 100%; border-radius: 8px; border: 1px solid #ddd;">
+    <img src="https://github.com/user-attachments/assets/a34dc7fc-08a5-4283-8de6-ace76f8e40cf" alt="Cellule de charge à jauge de contrainte" style="width: 100%; border-radius: 8px; border: 1px solid #ddd;">
   </div>
 </div>
 
@@ -62,7 +62,7 @@ Les broches logiques de l'ESP32 délivrant un courant maximal de quelques millia
     • <b>Le facteur d'échelle :</b> Application d'une masse étalon connue sur le capteur. Le microcontrôleur calcule le ratio mathématique <code>(Valeur Brute / Masse Réelle)</code>. Ce facteur d'échelle constant est injecté de manière permanente dans l'équation de conversion pour traduire les variations de tension en grammes lors du processus de régulation.
   </div>
   <div style="flex: 0.8; min-width: 280px; text-align: center;">
-    <img src="https://github.com/user-attachments/assets/8b1c7957-3ec6-429f-8628-102339071d58" alt="Composants et Shield Électronique" style="width: 100%; border-radius: 8px; border: 1px solid #ddd;">
+    <img src="https://github.com/user-attachments/assets/8b1c7957-3ec6-429f-8628-102339071d58" alt="Modbus" style="width: 100%; border-radius: 8px; border: 1px solid #ddd;">
   </div>
 </div>
 
