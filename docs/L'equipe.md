@@ -1,20 +1,20 @@
 ---
 layout: default
 nav_order: 8
-title: L'Équipe
+title: L'Ékipe
 ---
 
-#  Présentation de la Team : Robobiner
+#  Présentation de la ékipe : Robobiner
 
 <div style="text-align: justify;">
-La réalisation de ce projet d'enrouleur/débobineur automatisé est le fruit d'une collaboration étroite et d'une synergie de compétences mécaniques, électroniques et logicielles. Découvrez les membres de l'équipe et la structuration des différents lots de travail.
+La réalisation de ce projet d'enrouleur/débobineur automatisé est le fruit d'une collaboration étroite et d'une synergie de compétences mécaniques, électroniques et logicielles. Découvrez les membres de l'ékipe et la structuration des différents lots de travail.
 </div>
 
 <br>
 
 <div style="text-align: center;">
   <img src="https://github.com/user-attachments/assets/f58e49c9-f689-4f1e-a73b-7779470a27e2" alt="La Team : Team building" style="max-width: 650px; width: 100%; border-radius: 8px; border: 1px solid #ddd; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
-  <p style="margin-top: 8px; font-style: italic; font-weight: bold; color: #2c3e50;">"L'équipe Robobiner en session de Team Building"</p>
+  <p style="margin-top: 8px; font-style: italic; font-weight: bold; color: #2c3e50;">"L'ékipe Robobiner en session de Tim Building"</p>
 </div>
 
 ---
