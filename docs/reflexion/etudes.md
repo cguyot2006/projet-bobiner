@@ -52,7 +52,7 @@ En gardant a l'esprit les exigences du cahier des charges, nous avons identifié
 
 ### 2. Le capteur de tension
 * **Le constat :** Les capteurs de tension dynamiques pour filament plastique fins n'existent pas de manière standardisée ou abordable sur le marché.
-* **La solution retenue :** Concevoir et fabriquer notre propre capteur de tension mécanique (généralement basé sur un bras oscillant ou un système de "dancer" associé à un capteur d'angle ou une jauge de contrainte) pour envoyer une information en temps réel à notre boucle de rétroaction **PID**.
+* **La solution retenue :** Concevoir et fabriquer notre propre capteur de tension mécanique à l'aide d'un cellule de charge pour envoyer des informations en temps réel à notre boucle de rétroaction.
 
 ### 3. Le système de distribution (Guide-fil)
 * **Le constat :** Sans guidage, le filament s'enroule de manière centré sur la bobine, provoquant des chevauchements et des blocages futurs lors de l'impression 3D.
