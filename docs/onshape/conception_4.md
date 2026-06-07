@@ -28,18 +28,18 @@ Le signal analogique de la cellule de charge est traité par un ESP32. Si la ten
 </div>
 
 ### Modèles 3D
+
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px; margin-top: 20px;">
   <div style="flex: 1; min-width: 300px; text-align: center;">
-    <iframe height="400" width="100%" src="https://modelembedder.net/embed?did=a2ca14590071317756405ddb&wvm=v&wvmid=e545353ab16c7c93b2b05265&eid=d7ed1f49986d3140a7375e72&elementType=ASSEMBLY" frameborder="0" style="border: 1px solid #eee; border-radius: 8px;"></iframe>
+    <img src="https://github.com/user-attachments/assets/94e1cc1d-5192-4fec-ab94-66b12e8ffb3e" alt="Assemblage du capteur" style="width: 100%; height: 400px; object-fit: contain; border: 1px solid #eee; border-radius: 8px;">
     <p style="margin-top: 10px; font-weight: bold;"><u>Assemblage du capteur</u><br><span style="font-weight: normal; font-size: 0.85em;">Détail du passage du fil entre les trois roulements.</span></p>
   </div>
   <div style="flex: 1; min-width: 300px; text-align: center;">
-    <iframe height="400" width="100%" src="https://modelembedder.net/embed?did=a2ca14590071317756405ddb&wvm=v&wvmid=856be950d975c9576b279a8c&eid=e2fb31241970e6b4d31bf182&elementType=ASSEMBLY" frameborder="0" style="border: 1px solid #eee; border-radius: 8px;"></iframe>
+    <img src="https://github.com/user-attachments/assets/c5317e00-7055-4923-b6fd-ce2ff7a5bfe2" alt="Intégration système" style="width: 100%; height: 400px; object-fit: contain; border: 1px solid #eee; border-radius: 8px;">
     <p style="margin-top: 10px; font-weight: bold;"><u>Intégration système</u><br><span style="font-weight: normal; font-size: 0.85em;">Vue d'ensemble incluant le châssis et le capteur.</span></p>
   </div>
 </div>
 
 {: .note }
 > <div style="text-align: justify;"><u>Le rôle de l'ESP32 :</u> La cellule de charge détecte une micro-déformation physique. Cette donnée est convertie en signal électrique, permettant à l'ESP32 de piloter une boucle de rétroaction. Cela garantit que la <u>vitesse de rotation</u> s'adapte en permanence à la tension détectée sur le roulement central.</div>
-
 ---
