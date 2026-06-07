@@ -79,12 +79,13 @@ Retrouvez ci-dessous NOUS la TEEM :
   </div>
 
   <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/a70f8aea-f411-4acc-8744-3ab463dc9525" style="width: 100%; border-radius: 6px; border: 1px solid #ddd;" alt="Photo projet">
+    <img src="https://github.com/user-attachments/assets/d904db49-8534-4bfa-880a-fd11eb8a0015" style="width: 100%; border-radius: 6px; border: 1px solid #ddd;" alt="Photo projet">
   </div>
 
   <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/d904db49-8534-4bfa-880a-fd11eb8a0015" style="width: 100%; border-radius: 6px; border: 1px solid #ddd;" alt="Photo projet">
+    <img src="https://github.com/user-attachments/assets/c2c6aa00-b85e-405c-9e4d-8712e0f73c19" style="width: 100%; border-radius: 6px; border: 1px solid #ddd;" alt="Photo projet">
   </div>
+
 
 </div>
 
