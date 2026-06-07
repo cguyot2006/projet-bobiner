@@ -33,23 +33,42 @@ Notre machine intègre :
 * **Polyvalence :** Compatible avec les bobines du Makerspace et les formats standard de 1kg.
 * **Design Intégré :** Le système est conçu pour être installé dans une armoire en plexiglass dédiée au sein de l'usine.
 
-## Poster
+---
+layout: default
+title: Supports Vidéo
+parent: Livrables
+nav_order: 2
+---
 
-Ici vous publierez le poster de votre projet.
+# 🎥 Démonstrations Vidéo et Fonctionnelles
 
-![Poster projet](images/poster.jpg)
+<div style="text-align: justify;">
+Afin de valider la conformité de notre prototype par rapport au cahier des charges, nous avons réalisé plusieurs séquences vidéo. Ces supports permettent d'observer le comportement dynamique du Robobiner, la régulation en temps réel de la tension du filament ainsi que la synchronisation asymétrique de nos moteurs pas-à-pas en conditions réelles d'utilisation.
+</div>
 
-## Vidéo
+---
 
-Ici vous publierez la vidéo de votre projet. 
-- 1min30 au format vertical
-- Présentation du projet 
-- Des explication du fonctionnement du projet
-- Des vues du projet / Prototype / Application etc... 
-- Des plans du fonctionnement (même basique ou des éléments séparés)
-- Une conclusion
-- Si en stockage local : <50mo
+## Vidéo de présentation officielle (Livrable)
 
-<video src="images/intro_amiens.mp4" controls title="Title"  style="width: 100%;"></video>
+<div style="text-align: justify;">
+La vidéo principale retrace l'intégralité du projet, de la conception CAO sur Onshape jusqu'aux phases d'assemblage mécanique et de tests électroniques. Ce livrable est accessible directement via l'espace partagé Sharepoint de notre institution :
+</div>
+
+<br>
+
+<div style="text-align: center;">
+  <a href="https://cloudlasalle.sharepoint.com/sites/ProjetI3FISA2025/Documents%20partages/Projet%2008%20Enrouleur%20desenrouleur%20de%20filament%203D/Livrables/Video/Robobiner.mp4?csf=1&web=1&e=c2hYKH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" style="display: inline-block; padding: 12px 24px; background-color: #0078d4; color: white; text-decoration: none; border-radius: 6px; font-weight: bold; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: background-color 0.2s;">
+  </a>
+</div>
+
+
+<br>
+
+<div style="text-align: center;">
+  <video src="https://github.com/user-attachments/assets/a9d1dfc9-788c-4b1c-be7d-8188efd63abd" controls style="max-width: 700px; width: 100%; border-radius: 8px; border: 1px solid #ddd; box-shadow: 0 4px 8px rgba(0,0,0,0.05);"></video>
+  <p style="margin-top: 10px; font-style: italic; font-size: 0.9em; color: #555;">
+    "Vidéo de présentation du robobiner"
+  </p>
+</div>
 
 ---
