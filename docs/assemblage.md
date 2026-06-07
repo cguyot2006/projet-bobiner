@@ -26,9 +26,9 @@ Une fois toutes les pièces imprimées en 3D, nous avons rapidement réalisé qu
   </div>
 
   <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
-    
+
     <div style="flex: 1; min-width: 300px; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/4855ee73-e43b-4645-ada0-5293ad07d977" alt="Chauffement du roulement à bille avec fer à souder" style="width: 100%; border-radius: 8px; border: 1px solid #ddd;">
+      <img src="https://github.com/user-attachments/assets/97cac7f2-2fc5-4bf9-b2b9-d9592c877280" alt="Chauffement du roulement à bille avec fer à souder" style="width: 100%; border-radius: 8px; border: 1px solid #ddd;">
       <p style="margin-top: 8px; font-style: italic; font-size: 0.9em;">"Chauffement du roulement à bille avec fer à souder"</p>
     </div>
 
