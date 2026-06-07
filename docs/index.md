@@ -5,10 +5,9 @@ title: Accueil
 permalink: /
 ---
 
-<div style="text-align: justify; line-height: 1.6;">
-
 # Bienvenue sur le site du Robobiner !
 
+<div style="text-align: justify; line-height: 1.6;">
 Bienvenue dans la documentation officielle du projet <b>Robobiner</b>. Ce site technique a été conçu pour regrouper l'intégralité de nos ressources et fournir toutes les clés nécessaires pour comprendre, exploiter et reproduire efficacement notre système d'enroulement et de débobinage automatisé. Vous y trouverez nos choix de conception CAO, nos développements électroniques, ainsi que nos retours d'expérience de fabrication.
 
 <br>
