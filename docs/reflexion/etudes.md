@@ -7,7 +7,7 @@ has_children: true
 
 # De l'idée à la machine
 
-Avant de débuter la conception assistée par ordinateur (CAO), notre équipe a mené une analyse du marché. L'objectif était d'analyser les solutions d'enrouleurs ("rewinder" ou "re-spooling") de filament déjà développées par les communites et dans l'industrie afin d'en extraire les meilleures pratiques.
+Avant de débuter la conception assistée par ordinateur (CAO), notre équipe a mené une analyse du marché. L'objectif était d'analyser les solutions d'enrouleurs ("rewinder" ou "re-spooling") de filament déjà développées dans l'industrie ou dans les communautés d'imprimeur 3D afin d'en extraire les meilleures pratiques.
 
 
 ## Analyse du marché
