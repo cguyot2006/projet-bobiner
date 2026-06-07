@@ -5,13 +5,6 @@ title: Accueil
 permalink: /
 ---
 
----
-layout: default
-title: Accueil
-nav_order: 1
-permalink: /
----
-
 <div style="text-align: justify; line-height: 1.6;">
 
 # Bienvenue sur le site du Robobiner !
